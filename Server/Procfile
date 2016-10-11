@@ -1,0 +1,1 @@
+web: npm ./Server/bin/www
